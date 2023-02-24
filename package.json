@@ -3,5 +3,23 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
-  }
+  },
+  "name": "basicapinode",
+  "description": "una api básica estructurada se puede usar para iniciar un proyecto de una API sin tener que iniciar desde cero",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfernet007/basicApiNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfernet007/basicApiNode/issues"
+  },
+  "homepage": "https://github.com/juanfernet007/basicApiNode#readme"
 }
